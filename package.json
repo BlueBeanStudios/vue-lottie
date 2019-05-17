@@ -18,7 +18,7 @@
     "lottie-web": "^5.5.2"
   },
   "peerDependencies": {
-    "vue": "^2.5.16"
+    "vue": "^2.6.10"
   },
   "devDependencies": {
     "babel-core": "^6.0.0",
